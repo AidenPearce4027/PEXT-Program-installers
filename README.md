@@ -1,2 +1,3 @@
 # PEXT-Program-installers
-Here you can download some PEXT that if they run they will install a program or multiple programs on your PearOS device based on the PEXT you download
+
+Here you can download PEXTs that if run will install a program or more programs on your PearOS device based on the PEXT you download
